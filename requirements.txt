@@ -39,7 +39,7 @@ gunicorn==19.9.0
 
 
 
-libgl1-mesa-glx
+libgl1
 tensorflow==1.8.0
 
 
