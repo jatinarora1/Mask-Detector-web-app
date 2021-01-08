@@ -1,0 +1,15 @@
+backports.functools-lru-cache==1.6.1
+backports.shutil-get-terminal-size==1.0.0
+backports.tempfile==1.0
+backports.weakref==1.0.post1
+beautifulsoup4==4.9.1
+Flask==1.1.2
+
+json5==0.9.5
+numba==0.50.1
+numexpr==2.7.1
+numpy==1.18.5
+opencv-python==4.4.0.42
+scikit-image==0.16.2
+scikit-learn 
+keras
