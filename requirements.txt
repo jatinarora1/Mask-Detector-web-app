@@ -89,11 +89,6 @@ tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
 tensorflow==2.4.0
 tensorflow-estimator==2.4.0
-termcolor==1.1.0
-terminado==0.9.1
-testpath==0.4.4
-tornado==6.0.4
-traitlets==5.0.5
 typing-extensions==3.7.4.3
 urllib3==1.25.11
 virtualenv==20.2.2
