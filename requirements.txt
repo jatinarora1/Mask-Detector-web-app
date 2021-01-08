@@ -27,6 +27,7 @@ opencv-python==4.4.0.44
 
 
 
+gunicorn==19.9.0
 
 
 
